@@ -6,5 +6,6 @@
     "Multiverse-Core": "4.3.1",
     "ViaBackwards": "4.1.1",
     "ViaRewind": "2.0.3-SNAPSHOT",
-    "ViaVersion": "4.1.1"
+    "ViaVersion": "4.1.1",
+    "Clearlag": "3.2.2"
 }
